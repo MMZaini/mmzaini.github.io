@@ -1,0 +1,65 @@
+body {
+	background: #ebebeb;
+	margin-top: 25
+}
+
+header { 
+	background: #cccccc;
+	color: black;
+	padding: 15px 15px 0 15px
+}
+
+
+li {
+	margin: 40 10 10px 45;  /*first is updown second is nothing third is things under and fourth left and right*/
+	font-size: 35px;
+	list-style: none;
+}
+
+
+.col {
+	text-align: center;
+	margin: auto;
+	width: 60%;  /*change width of the collumn*/
+	padding: 10px;
+	font-size: 25px;
+	float: center;
+	background: #cccccc;
+	border-radius: 5px;
+	color: black;
+}
+
+
+.cus {
+	font-family: Sans-serif;
+	font-size: 25px;
+	float: center;
+	background: #cccccc;
+	border-radius: 5px;
+	color: black;
+	padding: 10px .5%;
+	margin: .5%;
+	width: 40%;
+}
+
+.mah {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	float: center;
+	background: #cccccc;
+	border-radius: 5px;
+	color: black;
+	padding: 10px .5%;
+	margin: .5%;
+	width: 31%;
+}
+
+
+footer {
+	position:absolute; /*keep at absolute*/
+	bottom:0;  /* always keep this at 0*/
+	width:100%;  /* change left or right of the footer */
+	height:40px;   /* chnage height of the footer */
+	background: clear;  /* change background color*/
+}
