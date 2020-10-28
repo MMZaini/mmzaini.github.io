@@ -3,7 +3,11 @@ My first site made completley from css and html. Eventually ill add more program
 
 
 List Of Things To Add:
+make the site look better
+make the code look better
 
 
 
 List Of Things Added:
+fonts
+secret pages..
