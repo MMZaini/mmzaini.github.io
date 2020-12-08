@@ -1,8 +1,7 @@
 # Site
-My first site made completley from css and html. Eventually ill add more programming languages as i learn. The more i add, the better the site looks.
+My first site made completley from CSS and HTML
 
 
 List Of Things To Add:
-make the site look better
+make the site look (ALOT) better
 make the code look better
-
