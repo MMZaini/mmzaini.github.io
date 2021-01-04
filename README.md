@@ -1,5 +1,5 @@
 # Site
-My first site made completley from CSS and HTML
+My first site made completely from CSS and HTML
 
 
 List Of Things To Add:
